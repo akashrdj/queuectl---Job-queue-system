@@ -602,7 +602,7 @@ MIT License - see LICENSE file for details
 ## 👤 Author
 
 **Your Name**
-- GitHub: [[@yourusername](https://github.com/yourusername)](https://github.com/akashrdj)
+- GitHub: [[@akashrdj](https://github.com/yourusername)](https://github.com/akashrdj)
 - Email: akashrj090@gmail.com
 
 ## 🙏 Acknowledgments
