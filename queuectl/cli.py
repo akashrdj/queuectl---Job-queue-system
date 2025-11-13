@@ -171,7 +171,7 @@ def status(db):
     counts = storage.get_job_counts()
     
     # worker status
-    workstats = manager.get_workstats()
+    workstats = manager.workerstatus()
     
     # Display summary
     click.echo(f"\n{'=' * 50}")
